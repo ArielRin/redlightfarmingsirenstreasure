@@ -39,6 +39,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://www.paxos.com/busd/',
   },
+  eeyore: {
+    symbol: 'EEYORE',
+    address: {
+      2611: '0xA9a9C8ccf854342896CB8d23EffC73E094CD7C8f',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://www.eeyoretoken.com',
+  },
   // cos: {
   //   symbol: 'COS',
   //   address: {
